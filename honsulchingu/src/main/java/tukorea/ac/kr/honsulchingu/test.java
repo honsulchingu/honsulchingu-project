@@ -1,4 +1,4 @@
-package main.java.tukorea.ac.kr.honsulchingu;
+package tukorea.ac.kr.honsulchingu;
 
 class Count {
 
